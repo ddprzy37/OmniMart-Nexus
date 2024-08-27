@@ -51,8 +51,6 @@ This project is licensed under the [MIT License]([MIT License](https://opensourc
 
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
-
 Project Link: [https://github.com/ddprzy37/OmniMart-Nexus](https://github.com/ddprzy37/OmniMart-Nexus)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
